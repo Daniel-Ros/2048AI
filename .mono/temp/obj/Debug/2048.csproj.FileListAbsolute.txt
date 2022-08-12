@@ -1,0 +1,9 @@
+/home/daniel/dev/godot/2048/.mono/temp/bin/Debug/2048.dll
+/home/daniel/dev/godot/2048/.mono/temp/bin/Debug/2048.pdb
+/home/daniel/dev/godot/2048/.mono/temp/obj/Debug/2048.csproj.AssemblyReference.cache
+/home/daniel/dev/godot/2048/.mono/temp/obj/Debug/2048.GeneratedMSBuildEditorConfig.editorconfig
+/home/daniel/dev/godot/2048/.mono/temp/obj/Debug/2048.AssemblyInfoInputs.cache
+/home/daniel/dev/godot/2048/.mono/temp/obj/Debug/2048.AssemblyInfo.cs
+/home/daniel/dev/godot/2048/.mono/temp/obj/Debug/2048.csproj.CoreCompileInputs.cache
+/home/daniel/dev/godot/2048/.mono/temp/obj/Debug/2048.dll
+/home/daniel/dev/godot/2048/.mono/temp/obj/Debug/2048.pdb

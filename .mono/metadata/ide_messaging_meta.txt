@@ -1,0 +1,2 @@
+﻿38113
+/home/daniel/.local/bin/godot

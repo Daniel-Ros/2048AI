@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "vqDzVh52UsRmha7IasGIzhOiaKTODzb33zu2OCztbifF7DgKTcZenGYU8mFzTI+1ErgRGFjOcBxUTsnMt4imkQ==",
+  "success": true,
+  "projectFilePath": "/home/daniel/dev/godot/2048/2048.csproj",
+  "expectedPackageFiles": [
+    "/home/daniel/.nuget/packages/microsoft.netframework.referenceassemblies/1.0.2/microsoft.netframework.referenceassemblies.1.0.2.nupkg.sha512",
+    "/home/daniel/.nuget/packages/microsoft.netframework.referenceassemblies.net472/1.0.2/microsoft.netframework.referenceassemblies.net472.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
